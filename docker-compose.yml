@@ -1,0 +1,5 @@
+version: "3"
+services:
+  neuraltalk2:
+    container_name: "neuraltalk2_api"
+    build: .
